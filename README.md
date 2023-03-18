@@ -26,10 +26,6 @@ Unzip the content of the file in your local repository
 * Open Eclipse by choosing the option "Open projects From File System".
 * Click on the green play button located in the center top to run the program.
 
-## Help
-
-Make sure that the Project is running as "1 Java Application" in the option "Run As".
-
 ## Authors
 
 Tiago Fontoura da Cruz reviewed by Professor Stephen Johnson.
